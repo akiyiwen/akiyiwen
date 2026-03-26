@@ -5,7 +5,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C329%20hrs%208%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -23,14 +23,14 @@
 
 ```text
 🔥 Editors: 
-PyCharm                  10 hrs 9 mins       ████████████████████░░░░░   80.77 % 
-Sublime Text             1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
-Vim                      1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
+PyCharm                  10 hrs 9 mins       ████████████████████░░░░░   81.05 % 
+Sublime Text             1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
+Vim                      58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
 
 💻 Operating System: 
-Linux                    12 hrs 34 mins      █████████████████████████   100.00 % 
+Linux                    12 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 25/03/2026 01:53:06 UTC
+ Last Updated on 26/03/2026 01:59:21 UTC
 <!--END_SECTION:waka-->
