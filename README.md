@@ -23,15 +23,14 @@
 
 ```text
 🔥 Editors: 
-PyCharm                  5 hrs 36 mins       ███████████████████░░░░░░   77.27 % 
-WebStorm                 1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-Vim                      31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
-Sublime Text             7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+PyCharm                  5 hrs 36 mins       ████████████████████░░░░░   78.63 % 
+WebStorm                 1 hr                ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
+Vim                      31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
 
 💻 Operating System: 
-Linux                    7 hrs 15 mins       █████████████████████████   100.00 % 
+Linux                    7 hrs 7 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 22/04/2026 02:08:03 UTC
+ Last Updated on 23/04/2026 02:11:48 UTC
 <!--END_SECTION:waka-->
