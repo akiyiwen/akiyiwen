@@ -23,13 +23,14 @@
 
 ```text
 🔥 Editors: 
-PyCharm                  4 hrs 27 mins       ████████████████████████░   95.01 % 
-Vim                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
+PyCharm                  2 hrs 39 mins       █████████████████░░░░░░░░   67.50 % 
+Vim                      1 hr 2 mins         ███████░░░░░░░░░░░░░░░░░░   26.22 % 
+IntelliJ IDEA            14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
 
 💻 Operating System: 
-Linux                    4 hrs 41 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 56 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 08/05/2026 02:38:33 UTC
+ Last Updated on 09/05/2026 02:31:55 UTC
 <!--END_SECTION:waka-->
