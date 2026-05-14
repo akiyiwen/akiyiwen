@@ -3,7 +3,7 @@
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@akiyiwen&theme=dracula&layout=compact&langs_count=10&hide=other,html,css,text,json,markdown,jupyter)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C378%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C379%20hrs%2022%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -23,15 +23,15 @@
 
 ```text
 🔥 Editors: 
-PyCharm                  6 hrs 10 mins       ████████████████████░░░░░   80.37 % 
-Vim                      1 hr 12 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
-IntelliJ IDEA            14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-Sublime Text             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+PyCharm                  6 hrs 39 mins       █████████████████████░░░░   83.95 % 
+Vim                      58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
+IntelliJ IDEA            14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+Sublime Text             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
 
 💻 Operating System: 
-Linux                    7 hrs 40 mins       █████████████████████████   100.00 % 
+Linux                    7 hrs 55 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 13/05/2026 02:43:51 UTC
+ Last Updated on 14/05/2026 02:44:52 UTC
 <!--END_SECTION:waka-->
