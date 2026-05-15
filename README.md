@@ -3,7 +3,7 @@
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@akiyiwen&theme=dracula&layout=compact&langs_count=10&hide=other,html,css,text,json,markdown,jupyter)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C379%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C381%20hrs%2010%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -19,19 +19,6 @@
  > 
 > 🔑 22 Private Repositories 
  > 
-📊 **This Week I Spent My Time On** 
 
-```text
-🔥 Editors: 
-PyCharm                  6 hrs 39 mins       █████████████████████░░░░   83.95 % 
-Vim                      58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
-IntelliJ IDEA            14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
-Sublime Text             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
-
-💻 Operating System: 
-Linux                    7 hrs 55 mins       █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 14/05/2026 02:44:52 UTC
+ Last Updated on 15/05/2026 02:45:33 UTC
 <!--END_SECTION:waka-->
