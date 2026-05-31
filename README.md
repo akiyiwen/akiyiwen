@@ -23,13 +23,13 @@
 
 ```text
 🔥 Editors: 
-PyCharm                  7 hrs 58 mins       █████████████████████████   99.57 % 
-Sublime Text             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+PyCharm                  3 hrs 41 mins       █████████████████████████   99.07 % 
+Sublime Text             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
 
 💻 Operating System: 
-Linux                    8 hrs               █████████████████████████   100.00 % 
+Linux                    3 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 30/05/2026 02:42:27 UTC
+ Last Updated on 31/05/2026 03:23:53 UTC
 <!--END_SECTION:waka-->
