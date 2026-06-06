@@ -19,17 +19,6 @@
  > 
 > 🔑 22 Private Repositories 
  > 
-📊 **This Week I Spent My Time On** 
 
-```text
-🔥 Editors: 
-PyCharm                  5 hrs 11 mins       ████████████████████░░░░░   81.88 % 
-Vim                      1 hr 9 mins         █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
-
-💻 Operating System: 
-Linux                    6 hrs 21 mins       █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 05/06/2026 02:57:53 UTC
+ Last Updated on 06/06/2026 02:45:02 UTC
 <!--END_SECTION:waka-->
