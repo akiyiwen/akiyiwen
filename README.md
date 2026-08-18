@@ -23,13 +23,13 @@
 
 ```text
 🔥 Editors: 
-Vim                      5 hrs 25 mins       ████████████████░░░░░░░░░   65.52 % 
-PyCharm                  1 hr 59 mins        ██████░░░░░░░░░░░░░░░░░░░   24.01 % 
-WebStorm                 50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
-Sublime Text             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+Vim                      4 hrs 11 mins       ███████████████░░░░░░░░░░   59.43 % 
+PyCharm                  1 hr 59 mins        ███████░░░░░░░░░░░░░░░░░░   28.26 % 
+WebStorm                 50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
+Sublime Text             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 
 💻 Operating System: 
-Linux                    8 hrs 17 mins       █████████████████████████   100.00 % 
+Linux                    7 hrs 2 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -39,5 +39,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 17/08/2026 00:58:56 UTC
+ Last Updated on 18/08/2026 00:57:08 UTC
 <!--END_SECTION:waka-->
