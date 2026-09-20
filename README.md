@@ -3,7 +3,7 @@
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@akiyiwen&theme=dracula&layout=compact&langs_count=10&hide=other,html,css,text,json,markdown,jupyter)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C504%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C512%20hrs-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-14%20mins-blue?style=flat)
 
@@ -13,7 +13,7 @@
 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
-> 🏆 87 Contributions in the Year 2026
+> 🏆 90 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -25,20 +25,20 @@
 
 ```text
 🔥 Editors: 
-WebStorm                 4 hrs 33 mins       ███████████████████████░░   93.21 % 
-Claude Code              13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-Vim                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+WebStorm                 7 hrs 53 mins       █████████████████░░░░░░░░   69.23 % 
+PyCharm                  3 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   28.73 % 
+Claude Code              13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
 
 💻 Operating System: 
-Linux                    4 hrs 53 mins       █████████████████████████   100.00 % 
+Linux                    11 hrs 23 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 mins (5.12%)
+⏱ AI Coding Time: 14 mins (2.19%)
 
-✍️ 112 lines written by AI, 281 lines written by hand (28.5% AI-written)
+✍️ 112 lines written by AI, 686 lines written by hand (14.04% AI-written)
 
 🔤 82,645 Input Tokens, 10,121 Output Tokens
 
@@ -49,12 +49,12 @@ Linux                    4 hrs 53 mins       ███████████�
 Sonnet                   112 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 28.5% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 14.04% of written lines came from AI
 📝 Concise Prompter — average 60 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 77.14% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 90.75% of changed lines were hand-edited
 ```
 
 
- Last Updated on 19/09/2026 02:53:17 UTC
+ Last Updated on 20/09/2026 03:05:47 UTC
 <!--END_SECTION:waka-->
