@@ -3,7 +3,7 @@
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@akiyiwen&theme=dracula&layout=compact&langs_count=10&hide=other,html,css,text,json,markdown,jupyter)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C512%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C517%20hrs%2038%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-14%20mins-blue?style=flat)
 
@@ -25,20 +25,21 @@
 
 ```text
 🔥 Editors: 
-WebStorm                 7 hrs 53 mins       █████████████████░░░░░░░░   69.23 % 
-PyCharm                  3 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   28.73 % 
-Claude Code              13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+WebStorm                 11 hrs 59 mins      ██████████████████░░░░░░░   70.62 % 
+PyCharm                  4 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   25.59 % 
+Vim                      24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+Claude Code              13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
 
 💻 Operating System: 
-Linux                    11 hrs 23 mins      █████████████████████████   100.00 % 
+Linux                    16 hrs 59 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 14 mins (2.19%)
+⏱ AI Coding Time: 14 mins (1.47%)
 
-✍️ 112 lines written by AI, 686 lines written by hand (14.04% AI-written)
+✍️ 112 lines written by AI, 1,107 lines written by hand (9.19% AI-written)
 
 🔤 82,645 Input Tokens, 10,121 Output Tokens
 
@@ -49,12 +50,12 @@ Linux                    11 hrs 23 mins      ███████████�
 Sonnet                   112 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 14.04% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 9.19% of written lines came from AI
 📝 Concise Prompter — average 60 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 90.75% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 93.69% of changed lines were hand-edited
 ```
 
 
- Last Updated on 20/09/2026 03:05:47 UTC
+ Last Updated on 21/09/2026 03:02:33 UTC
 <!--END_SECTION:waka-->
