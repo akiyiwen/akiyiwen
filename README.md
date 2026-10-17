@@ -3,7 +3,7 @@
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@akiyiwen&theme=dracula&layout=compact&langs_count=10&hide=other,html,css,text,json,markdown,jupyter)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C549%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C549%20hrs%2019%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-14%20mins-blue?style=flat)
 
@@ -25,7 +25,8 @@
 
 ```text
 🔥 Editors: 
-Sublime Text             0 secs              █████████████████████████   100.00 % 
+Sublime Text             0 secs              ███████████████░░░░░░░░░░   61.92 % 
+Vim                      0 secs              ██████████░░░░░░░░░░░░░░░   38.08 % 
 
 💻 Operating System: 
 Linux                    0 secs              █████████████████████████   100.00 % 
@@ -38,5 +39,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 16/10/2026 02:54:01 UTC
+ Last Updated on 17/10/2026 02:45:25 UTC
 <!--END_SECTION:waka-->
