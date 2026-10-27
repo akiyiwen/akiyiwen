@@ -25,11 +25,10 @@
 
 ```text
 🔥 Editors: 
-PyCharm                  3 hrs 40 mins       ███████████████████████░░   92.73 % 
-Vim                      17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
+PyCharm                  3 hrs 40 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    3 hrs 57 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -39,5 +38,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 26/10/2026 02:55:56 UTC
+ Last Updated on 27/10/2026 03:28:42 UTC
 <!--END_SECTION:waka-->
