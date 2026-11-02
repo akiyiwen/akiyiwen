@@ -3,11 +3,11 @@
 [![Harlok's wakatime stats](https://github-stats-extended.vercel.app/api/wakatime?username=akiyiwen&theme=dracula&layout=compact&langs_count=10&hide=other,html,css,text,json,markdown,jupyter)](https://github.com/stats-organization/github-stats-extended)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C558%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C562%20hrs%2054%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-14%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -25,10 +25,10 @@
 
 ```text
 🔥 Editors: 
-PyCharm                  6 hrs               █████████████████████████   100.00 % 
+PyCharm                  9 hrs 38 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    6 hrs               █████████████████████████   100.00 % 
+Linux                    9 hrs 38 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -38,5 +38,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 01/11/2026 03:59:45 UTC
+ Last Updated on 02/11/2026 04:03:42 UTC
 <!--END_SECTION:waka-->
